@@ -1,2 +1,2 @@
-# ucsolu-escomputacionais-
-exercicios java da lista 1
+Unidade curriculas de programação soluções computacionais
+contem alguns exercicios java da lista1
