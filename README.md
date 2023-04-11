@@ -1,0 +1,2 @@
+# exercice2_list1uc-solucoescomputacionais
+exercice2
